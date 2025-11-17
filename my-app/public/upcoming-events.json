@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Frontend Workshop",
+    "start": "2025-03-01 10:00",
+    "end": "2025-03-01 14:00",
+    "location": "Lviv",
+    "speaker": "John Doe",
+    "icon": "FaCode"
+  },
+  {
+    "id": 2,
+    "name": "React Basics",
+    "start": "2025-04-11 12:00",
+    "end": "2025-04-11 16:00",
+    "location": "Kyiv",
+    "speaker": "Anna Kovalska",
+    "icon": "FaReact"
+  }
+]
